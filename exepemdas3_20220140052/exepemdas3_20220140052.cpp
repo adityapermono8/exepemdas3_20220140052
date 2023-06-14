@@ -133,4 +133,5 @@ int main() {
 	delete varBuku6;
 
 	return 0;
+
 }
